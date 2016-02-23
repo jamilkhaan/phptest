@@ -7,11 +7,11 @@
         <link rel="stylesheet" href="../contents/assets/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="../contents/assets/css/login.css">
     </head>
-    <body>
+    <body class="login-screen">
         <div class="container login-container">
             <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
-                    <div class="panel panel-primary">
+                    <div class="panel panel-primary panel-login">
                         <div class="panel-heading">
                             <div class="panel-title text-center">
                                 Login
